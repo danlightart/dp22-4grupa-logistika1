@@ -54,3 +54,30 @@
 #lowerbarheading {
     margin-left: 20px;
 }
+
+
+/* Profile */
+
+#name {
+    padding-top: 50px;
+    padding-left: 0px;
+}
+
+#user {
+    width: 400px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+#center {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+#buttonsub {
+    background-color: rgb(177,84, 84);
+    color:white;
+    width: 220px;
+    margin-bottom: 279px;
+}
