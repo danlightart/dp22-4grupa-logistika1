@@ -55,45 +55,17 @@
     margin-left: 20px;
 }
 
-
-/* Profile */
-
-#name {
-    padding-top: 50px;
-    padding-left: 0px;
-}
-
-#user {
-    width: 400px;
-    padding-top: 50px;
-    padding-left: 100px;
-}
-
-#center {
-    text-align: center;
-    margin-top: 50px;
-
-}
-
-#buttonsub {
-    background-color: rgb(177,84, 84);
-    color:white;
-    width: 220px;
-    margin-bottom: 279px;
-}
-
-/* Credentials edit */
-
-#input {
-    margin-left: 150px;
-    margin-right:150px;
-    margin-top: 80px;
+h1 {
+    text-decoration: underline;
+    padding-bottom: 20px;
+    padding-top: 100px;
     
 }
 
-#inputcolor {
-    background-color: rgb(81,81,81); 
-    color:white
+#cart {
+    margin-right:20px; 
+    margin-left:20px;
+    background-color: rgb(235, 235, 235);
 }
 
 #buttonprof {
@@ -102,7 +74,16 @@
     color:white;
     width: 220px;
     margin-top: 10px;
-    margin-bottom: 50px;
-    float: right;
+    margin-bottom: 100px;
+
+
+}
+#border {
+    outline: 1px solid rgba(82, 82, 82, 0.50);
+    padding-bottom: 200px;
+    margin-right: 150px;
+    margin-left: 150px;
+    padding-top: 20px
+
 }
 
