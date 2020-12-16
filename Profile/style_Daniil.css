@@ -81,3 +81,29 @@
     width: 220px;
     margin-bottom: 279px;
 }
+
+/* Credentials edit */
+
+#input {
+    margin-left: 150px;
+    margin-right:150px;
+    margin-top: 80px;
+    
+}
+
+#inputcolor {
+    background-color: rgb(81,81,81); 
+    color:white
+}
+
+#buttonprof {
+
+    background-color: rgb(177,84, 84);
+    color:white;
+    width: 220px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    float: right;
+
+
+}
